@@ -1,6 +1,7 @@
 # QA Engineer Test
 
 - This framework is about Frontend and API Automation Testing and it supports Page Object Model design pattern
+- I can use Selenium and Cypress automation tools. In this task I prefer Cypress because it is so easy and fast to set up and it runs tests faster than other automation tools.
 - Tools: Cypress 10.11.0 version, Mocha Framework, JavaScript, Mochawesome Reporter, Chai library for assertions
 - Scripts of execution:
     - For Frontend Test execution : npm run runUI
