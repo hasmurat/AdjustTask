@@ -1,0 +1,85 @@
+Test Charter 001:
+
+	Charter: Explore Search module on Wikipedia
+
+	Areas:
+			* Search Input
+
+	Test Environment & URL: https://en.wikipedia.org/w/index.php?search
+
+	Start: 30/10/2022 01:00PM
+
+	Tester Name: Murat Kangal
+
+	Duration: 20 Mins
+
+	Goals:
+			* Verify whether the search box is clickable or not
+			* Verify whether the user is able to enter the keyword in search box or not
+			* Verify that the user is able to enter alphabet, Numeric, and special char in the search box
+			* Verify that when the user enters a keyword in the search box and clicks on the search button, then the response fetched for a particular keyword is valid or not
+			* Verify whether the response shows invalid order or not (which means the most relevant results for the keyword are displayed on the top of the page).
+			* Verify the search result when the user clicks on search without entering any keyword.
+			* Verify the auto search, when the user enters a keyword then the system shows the auto-suggestion keyword accordingly or not
+			* Verify the search result when the user enters a special char
+			* Verify the search result by entering keywords in different languages
+
+	Bugs: 
+
+
+
+Test Charter 002:
+
+	Charter: Explore Search module on Wikipedia
+
+	Areas:
+			* Advanced Search
+
+	Test Environment & URL: https://en.wikipedia.org/w/index.php?search
+
+	Start: 30/10/2022 01:30PM
+
+	Tester Name: Murat Kangal
+
+	Duration: 25 Mins
+
+	Goals:
+			* Verify whether the advanced search is clickable or not
+			* Verify all the input boxes under advanced search are working as expected.
+			* Verify that help icons give the correct information for the corresponding parts
+			* Verify that dropdowns are clickable or not and shows the correct values
+			* Verify whether each filteration works correctly in search results
+
+	Bugs: 
+
+
+
+Test Charter 003:
+
+	Charter: Explore Search module on Wikipedia
+
+	Areas:
+			* Search in
+
+	Test Environment & URL: https://en.wikipedia.org/w/index.php?search
+
+	Start: 30/10/2022 02:00PM
+
+	Tester Name: Murat Kangal
+
+	Duration: 15 Mins
+
+	Goals:
+			* Verify whether the searchin is clickable or not
+			* Verify all checkboxes are clickable or not
+			* Verify that Default, Discussion, General Help and All checkboxes bring correct namespaces
+			* Verify that the search functionality of 'Add name spaces'
+			* Verify that selecting namespaces manually under any four main parts, Default, Discussion, General Help and All, selects the corresponding checkbox automatically  
+			* Verify whether each filteration works correctly in search results
+
+	Bugs:
+
+
+
+
+
